@@ -1,0 +1,6 @@
+struct Person:
+    name: str
+    age: int
+p = Person({"name": "LAH", "age": 20})
+view(p.name)
+view(p.age)

@@ -1,0 +1,11 @@
+class Parent:
+    func greet(self):
+        return "parent"
+class Child(Parent):
+    name
+    func __init__(self, name):
+        self.name = name
+    func greet(self):
+        return super.greet()
+p = Child("LAH")
+view(p.greet())

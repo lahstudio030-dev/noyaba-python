@@ -1,0 +1,4 @@
+macro twice(x): x + x
+view(twice(3))
+view(int(3.9))
+view(float(2))

@@ -1,0 +1,4 @@
+x: int = 2
+x = x + 3
+view(x)
+view(2 << 2)

@@ -1,0 +1,15 @@
+x = 4
+ref y = x
+y = 20
+view(x)
+with make:
+    value = 10
+    return value
+view(make())
+s = struct()
+s["id"] = 7
+view(s.id)
+cost Data = {i: 0, f: 0.0}
+data = Data()
+data.i = 10
+view(data.i)

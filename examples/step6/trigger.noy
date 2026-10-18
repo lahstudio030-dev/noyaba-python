@@ -1,0 +1,8 @@
+x = 2
+trigger x:
+    case 1:
+        view("one")
+    case 2, 3:
+        view("two")
+    default:
+        view("other")
