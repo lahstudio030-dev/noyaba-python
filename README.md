@@ -36,7 +36,7 @@ The opcode table and stack effects are documented in `noyaba/bytecode.py`.
 
 ### Running a program
 
-Run a `.noy` source file from the project root:
+Run a `.noy` or `.ny` source file from the project root:
 
 ```bash
 python3 -m noyaba path/to/program.noy
