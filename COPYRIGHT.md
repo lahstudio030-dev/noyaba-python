@@ -1,8 +1,10 @@
-# Copyright Notice
+# Copyright and License Notice
 
-**Copyright (C) by LAH Asif 2026**
+**Copyright (c) 2026 LAH Asif**
 
-Noyaba and the Noyaba Python Reference VM are proprietary copyrighted works.
-Unauthorized copying, rebuilding, modification, redistribution, publication,
-commercial use, or derivative work is prohibited without prior written
-permission from LAH Asif.
+Noyaba and the Noyaba Python Reference VM remain copyrighted works by LAH
+Asif. Permission to use, copy, modify, merge, publish, distribute, sublicense,
+and sell this software is granted under the terms of the [MIT License](LICENSE).
+
+The copyright notice and MIT permission notice must be retained in copies or
+substantial portions of the software.

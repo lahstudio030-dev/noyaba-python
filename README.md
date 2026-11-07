@@ -167,8 +167,11 @@ The authoritative details are documented in [BUILTIN_INVENTORY.md](BUILTIN_INVEN
 
 For questions or permission requests, see [CONTACT.md](CONTACT.md).
 
-## Copyright and usage restriction
+## Copyright and license
 
-**Copyright (C) by LAH Asif 2026. All Rights Reserved.**
+**Copyright (c) 2026 LAH Asif.**
 
-This public repository is published for attribution and inspection only. No permission is granted to copy, rebuild, modify, redistribute, or create derivative works without prior written permission. See [LICENSE](LICENSE) and [COPYRIGHT.md](COPYRIGHT.md).
+This project is licensed under the [MIT License](LICENSE). You may use, copy,
+modify, rebuild, redistribute, sublicense, and sell copies of the software,
+subject to the MIT license conditions. See [COPYRIGHT.md](COPYRIGHT.md) for the
+copyright notice.
